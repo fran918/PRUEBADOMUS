@@ -1,0 +1,318 @@
+
+.back_cont{
+    color:white;
+    margin-top:50px;
+}
+/* 
+FRANCISCO A. CUPEN B.
+F-918@HOTMAIL.COM
+*/
+cont_t1{
+    padding-top:20px;
+    padding-bottom:20px; 
+    font-weight:bolder;
+}
+cont_t2{
+    background:#DDDDDD; 
+    padding:10px; 
+    padding-left: 15px; 
+    margin-left: 0px; 
+    padding-right: 25px; 
+    color:black;
+}
+.menu_sup{
+    display: block;
+}
+.menu_sup_dis{
+    display: none;
+}
+.menu_sup_st{
+    background: #D3D3D3;
+}
+.btn_menu_sup{
+    background:#4E4E4E; 
+    color:white; 
+    font-size:13px; 
+    padding:4px; 
+    padding-left:20px; 
+    padding-right:20px; 
+    font-weight:bolder;
+    margin-top:35px;
+}
+/* 
+FRANCISCO A. CUPEN B.
+F-918@HOTMAIL.COM
+*/
+.btn_menu_inf{
+    background:#DE0009; 
+    color:white; 
+    font-size:13px; 
+    padding:4px; 
+    padding-left:20px; 
+    padding-right:20px; 
+    font-weight:bolder;
+}
+.menu_sup_sec{
+    height:40px; 
+    background:#4E4E4E; 
+    margin-top:-20px; 
+    position:unset; 
+    z-index:100px; 
+    padding-right:60px; 
+    padding-top:9px;
+    color:white;
+    font-weight:bolder;
+    font-size:13px; 
+}
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev{
+ display:block !important;
+}
+.image {
+    width: 100%;
+    height: auto;
+    background-position: center;
+    background-size: cover;
+}
+/* 
+FRANCISCO A. CUPEN B.
+F-918@HOTMAIL.COM
+*/
+.pad_abj{
+    margin-bottom: 10px;
+}
+.menu_sup_text{
+    float: right;
+margin-left:8px;
+margin-right:8px;
+}
+.contenedor{
+    background:#D3D3D3; 
+    top:140px; 
+    padding:0; 
+    margin:0;
+}
+
+@media (max-width: 575px) {  
+
+}
+
+/* 
+FRANCISCO A. CUPEN B.
+F-918@HOTMAIL.COM
+*/
+
+@media (max-width: 767px) { 
+        
+.st19{
+font-size: 11px ; 
+}
+ }
+
+
+@media (min-width: 768px) and (max-width: 991px) { 
+   
+.st19{
+font-size: 11px  !important; 
+}
+ }
+    cont_t2{
+        width:30% !important;
+    }
+@media (min-width: 768px)  { 
+    .menu_sup{
+    display: none;
+    }
+    .menu_sup_dis{
+    display: block;
+    }
+    .back_cont{
+        margin-top:0px;
+    }
+    cont_t2{
+        width:30%  !important;
+    }   
+.st19{
+font-size: 11px ; 
+}
+ }
+
+@media (min-width: 992px)  {  
+.st19{
+font-size: 16px ; 
+}}
+
+/* 
+FRANCISCO A. CUPEN B.
+F-918@HOTMAIL.COM
+*/
+@media (min-width: 1200px) {  }
+
+.st1{
+margin-top: 20px !important;
+}
+.st2{
+float:left !important; 
+position:static !important;
+}
+.st3{
+position:fixed !important;
+}
+.st4{
+height:100px !important;
+}
+.st5{
+background:#4E4E4E !important;
+}
+.st6{
+color:white !important;
+}
+/* 
+FRANCISCO A. CUPEN B.
+F-918@HOTMAIL.COM
+*/
+.st7{
+background:#DDDDDD !important; 
+padding-left:10px !important; 
+border-radius:5px !important; 
+margin:0 !important;
+}
+.st8{
+color:#4E4E4E !important;
+}
+.st9{
+padding:0 !important; 
+margin:0 !important; 
+overflow:hidden !important;
+}
+.st10{
+margin-top:140px !important;
+}
+.st11{
+padding-top:20px !important;
+padding-bottom:20px !important; font-weight:bolder !important;
+}
+.st12{
+background:#DDDDDD !important; 
+padding:10px !important; 
+padding-left: 25px !important; 
+margin-left: 0px !important; 
+padding-right: 25px !important; 
+color:black !important;
+}
+.st13{
+padding:5px !important; 
+border-radius: 3px !important;
+}
+/* 
+FRANCISCO A. CUPEN B.
+F-918@HOTMAIL.COM
+*/
+.st14{
+padding-top:20px !important;
+padding-bottom:20px !important; 
+font-weight:bolder !important;
+}
+.st15{
+background:#DDDDDD !important; 
+padding:10px !important;  
+margin-left: 15px !important; 
+color:black !important;
+}
+.st16{
+background:#DDDDDD !important; 
+padding:10px !important;  
+margin-left: 12px !important; 
+color:black !important;
+}
+.st17{
+position:absolute !important; 
+bottom:70px !important; 
+left:15px !important; 
+color:white !important; 
+width:100% !important;
+}
+.st17a{
+position:absolute !important; 
+bottom:70px !important; 
+left:15px !important; 
+color:white !important; 
+width:100% !important;
+font-size: 19px;
+}
+.st18{
+position:absolute !important; 
+bottom:54px !important; 
+left:15px !important; 
+color:white !important; 
+width:100% !important;
+}
+.st18a{
+position:absolute !important; 
+bottom:54px !important; 
+left:15px !important; 
+color:white !important; 
+width:100% !important;
+font-size: 19px;
+}
+.st19{
+position:absolute !important; 
+bottom:20px !important; 
+left:15px !important; 
+color:white !important; 
+width:100% !important;
+font-size: 16px ; 
+}
+.st19a{
+position:absolute !important; 
+bottom:20px !important; 
+left:15px !important; 
+color:white !important; 
+width:100% !important;
+font-size: 19px;
+}
+.st20{
+padding-top:20px !important;padding-bottom:20px !important; font-weight:bolder !important;
+}
+/* 
+FRANCISCO A. CUPEN B.
+F-918@HOTMAIL.COM
+*/
+.st21{
+padding-left:15px !important; background:white !important; margin-left:10px !important; margin-right:10px !important; color:black !important;
+}
+.st22{
+ margin-top:7px !important;
+}
+.st23{
+padding-left:15px !important; background:white !important;
+}
+.st24{
+ background:white !important; color:black !important;
+}
+.st25{
+ margin-top:40px !important; height:auto !important; background:black !important;
+}
+.st26{
+ padding-top:20px !important; color:white !important;font-size:13px !important;
+}
+.st27{
+ margin-left:auto !important;margin-right:auto !important;
+}
+/* 
+FRANCISCO A. CUPEN B.
+F-918@HOTMAIL.COM
+*/
+.st28{
+ font-size:13px !important; padding-top:16px !important; margin-left:auto !important;margin-right:auto !important;
+}
+.st29{
+ width:100% !important; padding-bottom:10px !important;
+}
+.st30{
+ margin-left:0 !important;padding-left:0 !important; margin-top:15px !important; height:auto !important;
+}
+.st31{
+ padding-top:7px !important;
+}
